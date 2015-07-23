@@ -2,7 +2,7 @@
 Python code to convert First Order Logic statements to Conjunctive Normal Form
 
 Input file is in the form of a count followed by that many FOL sentences on each line
-
+<br>
 Example: 
 5
 statement 1
