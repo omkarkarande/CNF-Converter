@@ -1,4 +1,7 @@
-# CNF-Converter
+# CNF-Converter [NOT MAINTAINED]
+
+`NOTE: This code was written as a first project when learning python about 4 years ago. It is therefore very un-optimized and probably buggy. Do not use this for critical tasks. I would not be maintaining this but feel free to create a fork.`
+
 Python code to convert First Order Logic statements to Conjunctive Normal Form
 <br><br>
 Input file is in the form of a count followed by that many FOL sentences on each line
